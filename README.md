@@ -31,7 +31,7 @@ During my bootcamp, I worked on various practical projects that involved:
 Feel free to explore my repositories to learn more about my projects and the skills I've developed.
 
 ## Connect with Me
-- [GitHub](https://github.com/your-github-profile)
+- [GitHub](https://github.com/Jesorr)
 - [LinkedIn](https://www.linkedin.com/in/elliott-sorrells)
 
 You can view my resume [here](https://docs.google.com/document/d/1O3uB-022lkO7him1sRq6BsEhjratucDg74QKAP6vkzU/edit?usp=sharing).
